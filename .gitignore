@@ -1,0 +1,6 @@
+# Ignore node_modules, coverage, and IDE files
+node_modules/
+coverage/
+*.iml
+*.idea
+*.vscode
